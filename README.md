@@ -334,16 +334,8 @@ joblib>=1.3
 jupyter>=1.0
 ```
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
----
 
-<div align="center">
 
-**Built with ❤️ using [scikit-learn](https://scikit-learn.org/), [XGBoost](https://xgboost.readthedocs.io/), [LightGBM](https://lightgbm.readthedocs.io/), and [SHAP](https://shap.readthedocs.io/)**
-
-</div>
